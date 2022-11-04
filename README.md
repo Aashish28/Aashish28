@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Ashish Ahire
+![](https://github.com/Aashish28/Aashish28/blob/main/Capture1.JPG)
+
+I am SAP Fullstack Developer!
+
+Skills: SAP BTP / SAPUI5/ FIORI / ABAP / CDS / GATEWAY
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **Aashish28/Aashish28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
