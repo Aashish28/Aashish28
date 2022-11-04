@@ -7,6 +7,11 @@ Skills: SAP BTP / SAPUI5/ FIORI / ABAP / CDS / GATEWAY
 
 - 🔭 I’m currently working on this page. 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aashish28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/in/ashish-ahire-8555055a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aashish28.github.io/)  
+
+
+
 <!--
 **Aashish28/Aashish28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
