@@ -3,7 +3,8 @@
 
 I am SAP Fullstack Developer!
 
-Skills: SAP BTP / SAPUI5/ FIORI / ABAP / CDS / GATEWAY
+#### Skills: 
+SAP BTP / SAPUI5/ FIORI / ABAP / CDS / GATEWAY
 
 - 🔭 I’m currently working on this page. 
 
